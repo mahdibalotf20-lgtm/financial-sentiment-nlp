@@ -1,0 +1,1 @@
+Master Thesis Code: Persian Financial Sentiment Analysis using ParsBERT and Polars

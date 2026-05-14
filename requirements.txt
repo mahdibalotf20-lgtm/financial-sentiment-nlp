@@ -1,0 +1,10 @@
+polars>=1.0
+hazm>=0.10
+transformers>=4.40
+torch>=2.2
+scikit-learn>=1.4
+pydantic-settings>=2.2
+arabic-reshaper
+python-bidi
+matplotlib
+loguru
